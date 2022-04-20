@@ -5,7 +5,7 @@ metadata:
 spec:
   selector:
     matchLabels:
-      app: demo-java-apps
+      app: demo-java-app
   replicas: 1 # Number of replicas that will be created for this deployment
   template:
     metadata:
