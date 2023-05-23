@@ -1,1 +1,1 @@
-sudo ./mvnw clean package
+mvn clean install
